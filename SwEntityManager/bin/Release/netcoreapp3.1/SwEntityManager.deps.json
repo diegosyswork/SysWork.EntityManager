@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SwEntityManager/1.0.0": {
+        "runtime": {
+          "SwEntityManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwEntityManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

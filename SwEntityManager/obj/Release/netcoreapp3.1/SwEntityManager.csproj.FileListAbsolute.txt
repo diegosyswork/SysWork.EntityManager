@@ -1,0 +1,14 @@
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.exe
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.deps.json
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.runtimeconfig.json
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.runtimeconfig.dev.json
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.dll
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\bin\Release\netcoreapp3.1\SwEntityManager.pdb
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.csproj.AssemblyReference.cache
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.AssemblyInfoInputs.cache
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.AssemblyInfo.cs
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.csproj.CoreCompileInputs.cache
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.dll
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.pdb
+C:\SWSISTEMAS\SysWork.EntityManager\SwEntityManager\obj\Release\netcoreapp3.1\SwEntityManager.genruntimeconfig.cache

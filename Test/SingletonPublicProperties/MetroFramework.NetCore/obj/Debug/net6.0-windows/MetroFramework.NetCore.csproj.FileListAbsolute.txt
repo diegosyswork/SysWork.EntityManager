@@ -1,0 +1,12 @@
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\bin\Debug\net6.0-windows\MetroFramework.NetCore.deps.json
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\bin\Debug\net6.0-windows\MetroFramework.NetCore.dll
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\bin\Debug\net6.0-windows\MetroFramework.NetCore.pdb
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.csproj.AssemblyReference.cache
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.AssemblyInfoInputs.cache
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.AssemblyInfo.cs
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.csproj.CoreCompileInputs.cache
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.dll
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\refint\MetroFramework.NetCore.dll
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\MetroFramework.NetCore.pdb
+C:\SWSISTEMAS\SysWork.EntityManager\Test\SingletonPublicProperties\MetroFramework.NetCore\obj\Debug\net6.0-windows\ref\MetroFramework.NetCore.dll
