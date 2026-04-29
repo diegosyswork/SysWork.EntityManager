@@ -1,0 +1,91 @@
+## =========================
+## Build results
+## =========================
+bin/
+obj/
+out/
+publish/
+
+## =========================
+## Visual Studio
+## =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code (por si usás)
+.idea/
+.vscode/
+
+## =========================
+## Logs
+## =========================
+*.log
+logs/
+*.nlog
+*.txt
+
+## =========================
+## NuGet
+## =========================
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## =========================
+## OS files
+## =========================
+.DS_Store
+Thumbs.db
+
+## =========================
+## IIS / Publish
+## =========================
+wwwroot/dist/
+wwwroot/lib/
+
+## =========================
+## Entity Framework / DB (si usás)
+## =========================
+*.mdf
+*.ldf
+
+## =========================
+## Secrets / Config sensibles
+## =========================
+appsettings.Development.json
+appsettings.*.Local.json
+secrets.json
+
+## =========================
+## Backup / temporales
+## =========================
+*.bak
+*.tmp
+*.cache
+
+## =========================
+## Test results
+## =========================
+TestResults/
+
+## =========================
+## Dotnet tools
+## =========================
+.dotnet/
+
+## =========================
+## Archivos generados (RDLC / reports temporales)
+## =========================
+*.rdl.data
+*.rdlc.data
+
+## =========================
+## Otros
+## =========================
+*.db
+*.sqlite
+*.sqlite3
